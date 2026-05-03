@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Wahdy Fel Waga3 |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/wahdy-fel-waga3/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عتمة الليل، طيفك يناديني
+> نار في الحشا، شوقي يكويني
+> خذني إليك، في حضن الأمان
+> همس الشفاه، يروي العطشان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
