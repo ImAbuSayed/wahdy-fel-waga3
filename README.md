@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عتمة الليل، طيفك يناديني
+> نار في الحشا، شوقي يكويني
+> خذني إليك، في حضن الأمان
+> همس الشفاه، يروي العطشان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
