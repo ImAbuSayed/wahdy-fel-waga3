@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Wahdy Fel Waga3 |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/wahdy-fel-waga3/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Wahdy Fel Waga3](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
